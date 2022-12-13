@@ -21,6 +21,16 @@ First player to 3 points wins the game!
 
 Press a number, then press the * button to submit. Pressing C erases the last input.
 
+Parts Used:
+1x Arduino MEGA 2560
+1x 4x4 Membrane Switch Module
+1x LCD 1602 Module
+1x Passive Buzzer
+1x Green LED
+1x Yellow LED
+1x Red LED
+4x 220 Ohm Resistor 
 
-Diagram:
+
+Diagram: (NOTE: The diagram shows the use of a transistor and a poteniometer. In this build, neither of those parts where needed.)
 ![Diagram](https://user-images.githubusercontent.com/44332803/207444092-345ab838-6d03-4af3-b229-b04e9d57e484.png)
