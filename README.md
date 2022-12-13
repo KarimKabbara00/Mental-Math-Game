@@ -21,6 +21,12 @@ First player to 3 points wins the game!
 
 Press a number, then press the * button to submit. Pressing C erases the last input.
 
+
+
+Diagram: (NOTE: The diagram includes a transistor (and its resistor) and a poteniometer. In this build, neither of those parts where needed.)
+![Diagram](https://user-images.githubusercontent.com/44332803/207449036-07c5c159-a609-4117-ab8e-ed2d2ccf770a.png)
+
+
 Parts Used:
 
 1x Arduino MEGA 2560
@@ -39,6 +45,4 @@ Parts Used:
 
 4x 220 Ohm Resistor 
 
-
-Diagram: (NOTE: The diagram includes a transistor (and its resistor) and a poteniometer. In this build, neither of those parts where needed.)
-![Diagram](https://user-images.githubusercontent.com/44332803/207449036-07c5c159-a609-4117-ab8e-ed2d2ccf770a.png)
+A bunch of wires
