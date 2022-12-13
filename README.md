@@ -40,5 +40,7 @@ Parts Used:
 4x 220 Ohm Resistor 
 
 
-Diagram: (NOTE: The diagram shows the use of a transistor (and its resistor) and a poteniometer. In this build, neither of those parts where needed.)
+Diagram: 
+
+(NOTE: The diagram shows the use of a transistor (and its resistor) and a poteniometer. In this build, neither of those parts where needed.)
 ![Diagram](https://user-images.githubusercontent.com/44332803/207444092-345ab838-6d03-4af3-b229-b04e9d57e484.png)
