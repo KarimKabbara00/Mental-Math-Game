@@ -11,6 +11,10 @@ The game starts by first picking a difficulty. The levels are:
 The possible operations are addition, subtraction, multiplication, and division.
 The numbers are randomized for each player. The player must input the correct answer to gain a point.
 
+When the game starts, the yellow LED is activated indicating that the player may enter their answer. 
+If a player answers a question correctly, the green LED is activated, and a the buzzer plays a sound.
+Similarly, if a player answers a question incorrectly, the red LED and the buzzer are activated. 
+
 First player to 3 points wins the game! 
 
 ### Input tutorial:
