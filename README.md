@@ -29,20 +29,20 @@ Diagram: (NOTE: The diagram includes a transistor (and its resistor) and a poten
 
 Parts Used:
 
-  1x Arduino MEGA 2560
+* 1x Arduino MEGA 2560
 
-  1x 4x4 Membrane Switch Module
+* 1x 4x4 Membrane Switch Module
 
-  1x LCD 1602 Module
+* 1x LCD 1602 Module
 
-  1x Passive Buzzer
+* 1x Passive Buzzer
 
-  1x Green LED
+* 1x Green LED
 
-  1x Yellow LED
+* 1x Yellow LED
 
-  1x Red LED
+* 1x Red LED
 
-  4x 220 Ohm Resistor 
+* 4x 220 Ohm Resistor 
 
-  A bunch of wires
+* A bunch of wires
