@@ -41,4 +41,4 @@ Parts Used:
 
 
 Diagram: (NOTE: The diagram includes a transistor (and its resistor) and a poteniometer. In this build, neither of those parts where needed.)
-![Diagram](https://user-images.githubusercontent.com/44332803/207444092-345ab838-6d03-4af3-b229-b04e9d57e484.png)
+![Diagram](https://user-images.githubusercontent.com/44332803/207449036-07c5c159-a609-4117-ab8e-ed2d2ccf770a.png)
